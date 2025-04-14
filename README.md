@@ -55,11 +55,4 @@ This project is a web-based application that facilitates bidirectional data inge
 - Use example ClickHouse datasets like `uk_price_paid` and `ontime` for testing ingestion functionality.
 - Ensure proper error handling by simulating connection and authentication failures.
 
-## 📄 **Project Deliverables**
-- Source code and implementation.
-- **prompts.txt** documenting AI tool usage.
-- **PDF** with detailed explanation of the project setup and code.
-
-## 🤝 **Contributing**
-Feel free to fork the repository, submit issues, or contribute improvements via pull requests.
 
