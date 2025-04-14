@@ -43,7 +43,6 @@ This project is a web-based application that facilitates bidirectional data inge
    ```bash
    npm run dev
    ```
-   Open your browser and navigate to `http://localhost:3000`.
 
 ## ⚙️ **Features**
 - **Bidirectional Ingestion**: Transfer data from ClickHouse to Flat File and vice versa.
