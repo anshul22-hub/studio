@@ -1,9 +1,5 @@
-Sure! Here's a **short README** for your GitHub repository, focusing on the key points of the project.
 
 ---
-
-### 📄 **README.md**
-
 # Bidirectional ClickHouse & Flat File Data Ingestion Tool
 
 ## 📋 **Project Overview**
